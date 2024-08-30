@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395703088001",
+    "project_id": "kauvery-phr",
+    "storage_bucket": "kauvery-phr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395703088001:android:ea561078107a3070612e80",
+        "android_client_info": {
+          "package_name": "com.sinapse.phr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0vm9_-cyaNXxWiGBIfR2BXm5WiwwpWb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
